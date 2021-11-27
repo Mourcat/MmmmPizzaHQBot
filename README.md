@@ -4,4 +4,4 @@ Test work for KVINT.
 Viktor Vybornov.
 
 Telegram Bot for pizza makers...
-Please start with telegram_bot.py
+Please start with bot_telegram.py
